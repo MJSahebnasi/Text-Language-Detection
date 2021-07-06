@@ -5,7 +5,7 @@
 Farsi, Arabic, Pashto, English, German, French
 
 
-accuracy (%) of differnet methods:
+**accuracy (%) of differnet methods:**
 
 
 
