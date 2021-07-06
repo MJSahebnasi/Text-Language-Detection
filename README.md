@@ -1,4 +1,4 @@
-# Text-Language-Detection
+# Language Detection for Text:
 
 **languages supported:**
 
