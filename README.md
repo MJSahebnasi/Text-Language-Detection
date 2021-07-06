@@ -1,2 +1,2 @@
 # Text-Language-Classification
-AI Course Final Project
+<B>AI Course Final Project</B>
